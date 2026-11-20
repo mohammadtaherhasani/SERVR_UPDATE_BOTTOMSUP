@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "0.18.3",
+  "notes": "Adds Created By Mat to the office workspace footer after installing the preview.\n\nThe three signed web update files are stored under .bottomsup-release/ in this release tag.\n",
+  "artifact": {
+    "path": "artifacts/0.18.3.json",
+    "sha256": "2d044fa2d01143d547fccd37cd7b779dfccfa07232025335a3058bf457beac1a",
+    "bytes": 142799
+  }
+}
